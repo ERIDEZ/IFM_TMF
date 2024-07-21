@@ -1,0 +1,35 @@
+
+							** GLOSARIO DE MÉTRICAS E INDICES **
+
+> GDP growth (annual %): Annual percentage growth rate of GDP at market prices based on constant local currency. Aggregates are based on constant 2010 U.S. dollars
+
+> Unemployment, total (% of total labor force) (modeled ILO estimate): Unemployment refers to the share of the labor force that is without work but available for 
+  and seeking employment.
+
+> Inflation, GDP deflator (annual %): Inflation as measured by the annual growth rate of the GDP implicit deflator shows the rate of price change in the economy as a whole.
+
+> Political Stability and Absence of Violence/Terrorism: Percentile Rank [PV.PER.RNK]: Political Stability and Absence of Violence/Terrorism measures perceptions of 
+  the likelihood of political instability and/or politically-motivated violence, including terrorism. Percentile rank indicates the country's rank among all countries 
+  covered by the aggregate indicator, with 0 corresponding to lowest rank, and 100 to highest rank	
+
+> Probability of dying among youth ages 20-24 years (per 1,000) [SH.DYN.2024]> 	Probability of dying between age 20-24 years of age expressed per 1,000 youths age 20, 
+  if subject to age-specific mortality rates of the specified year.	
+
+> Regulatory Quality: Percentile Rank [RQ.PER.RNK]: captures perceptions of the ability of the government to formulate and implement sound policies and 
+  regulations that permit and promote private sector development.	Percentile rank indicates the country's rank among all countries covered by the aggregate 
+  indicator, with 0 corresponding to lowest rank, and 100 to highest rank
+
+> Rule of Law: Percentile Rank [RL.PER.RNK]: Rule of Law captures perceptions of the extent to which agents have confidence in and abide by the rules of society, and in 
+  particular the quality of contract enforcement, property rights, the police, and the courts, as well as the likelihood of crime and violence. Percentile rank indicates
+  the country's rank among all countries covered by the aggregate indicator, with 0 corresponding to lowest rank, and 100 to highest rank.
+
+> Voice and Accountability: Percentile Rank [VA.PER.RNK]: Voice and Accountability captures perceptions of the extent to which a country's citizens are able 
+  to participate in selecting their government, as well as freedom of expression, freedom of association, and a free media. Percentile rank indicates the country's 
+  rank among all countries covered by the aggregate indicator, with 0 corresponding to lowest rank, and 100 to highest rank.
+
+> Wage and salaried workers, total (% of total employment) (modeled ILO estimate) [SL.EMP.WORK.ZS]: Wage and salaried workers (employees) are those workers 
+  who hold the type of jobs defined as "paid employment jobs," where the incumbents hold explicit (written or oral) or implicit employment contracts 
+  that give them a basic remuneration that is not directly dependent upon the revenue of the unit for which they work
+
+
+
