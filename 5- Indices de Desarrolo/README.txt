@@ -8,7 +8,9 @@
 > Las 2 variables de "Poverty" podrían removerse debido a la gran falta de información en algunos paises
 > Datos nulos: *Los de Ukraine de 2022 podrían sacarse de la media de dos años anteriores. 
 	       *Venezuela: Se encontraron los datos faltantes de PBI en datos del FMI y los de "Inflation, GDP deflator" en el dataset "Inflation-data" > hoja "def_a"
+	       *Ukrania: Segun el Banco Nacional de Ukrania (October 2022), la tasa de desempleo de Ukrania en el 2022 fue de 33.3% https://fscluster.org/sites/default/files/labour_market_of_ukraine_2023_en42.pdf
 > Link: https://databank.worldbank.org/GDP---Inflation---Country-Risk/id/ae8fd58a#
+	
 
 
 
