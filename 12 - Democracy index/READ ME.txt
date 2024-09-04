@@ -1,0 +1,12 @@
+https://ourworldindata.org/explorers/democracy?tab=table&facet=none&Dataset=Varieties+of+Democracy&Metric=Deliberative+democracy&Sub-metric=Main+index&country=ARG~AUS~BWA~CHN~OWID_WRL
+
+Liberal democracy index, 1789 to 2023
+Based on the expert estimates and index by V-Dem. It combines information on voting rights, the freedom and fairness of elections,
+freedoms of association and expression, civil liberties, and executive constraints. It ranges from 0 to 1 (most democratic).
+
+
+Deliberative democracy index, 1900 to 2023
+Based on the expert estimates and index by V-Dem. It combines information on voting rights, the freedom and fairness of elections,
+freedoms of association and expression, as well as the extent to which citizens and leaders discuss different views and seek the public
+good. It ranges from 0 to 1 (most democratic).
+
