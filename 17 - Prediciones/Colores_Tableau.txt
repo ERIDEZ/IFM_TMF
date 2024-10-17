@@ -1,0 +1,8 @@
+Colores
+
+Azul #2C8AA6
+Aqua #16D09E
+Teal #A1ECD8
+Azul claro #5EB8D3
+Blanco #F7F7F7
+Gris de fondo #3D3D3D
